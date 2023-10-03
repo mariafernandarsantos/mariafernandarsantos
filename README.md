@@ -1,6 +1,6 @@
 Olá, seja bem vindo!👋
 
-🌱 Atualmente estou aprendendo e me aprofundando nas linguagens Java e Python ;
+🌱 Atualmente estou aprendendo e me aprofundando nas linguagens Java e Python ; \n
 ⚡ Estou cursando Ciência da Computação ;
 👯 Estou aberta a colaborações em projetos, sempre em busca de melhorar meu portfólio ;
 💬 Procuro conhecer mais pessoas da área de programação, para poder ampliar minha rede e minhas experiências ! 
