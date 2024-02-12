@@ -2,7 +2,7 @@
 
 ⚡️Atualmente estou...
 
-💻 Estudando Java e Python
+💻 Estudando Ciência da Computação
 
 🌱 Em busca de crescer como dev
 
